@@ -1,0 +1,24 @@
+name: HuJinhui
+version: 1
+
+libraries:
+- name: webpy 
+  version: "0.36"
+
+- name: lxml
+  version: "2.3.4"
+
+- name: certifi
+  version: "2018.04.16"
+
+- name: chardet
+  version: "3.0.4"
+
+- name: idna
+  version: "2.6"
+
+- name: requests
+  version: "2.18.4"
+
+- name: urllib3
+  version: "1.22"
